@@ -1,0 +1,10 @@
+file:F:\xiangmu\c\xuexi\test-4-9\test1.c line:44 date:Apr  9 2022 time:09:51:45 i=0
+file:F:\xiangmu\c\xuexi\test-4-9\test1.c line:44 date:Apr  9 2022 time:09:51:45 i=1
+file:F:\xiangmu\c\xuexi\test-4-9\test1.c line:44 date:Apr  9 2022 time:09:51:45 i=2
+file:F:\xiangmu\c\xuexi\test-4-9\test1.c line:44 date:Apr  9 2022 time:09:51:45 i=3
+file:F:\xiangmu\c\xuexi\test-4-9\test1.c line:44 date:Apr  9 2022 time:09:51:45 i=4
+file:F:\xiangmu\c\xuexi\test-4-9\test1.c line:44 date:Apr  9 2022 time:09:51:45 i=5
+file:F:\xiangmu\c\xuexi\test-4-9\test1.c line:44 date:Apr  9 2022 time:09:51:45 i=6
+file:F:\xiangmu\c\xuexi\test-4-9\test1.c line:44 date:Apr  9 2022 time:09:51:45 i=7
+file:F:\xiangmu\c\xuexi\test-4-9\test1.c line:44 date:Apr  9 2022 time:09:51:45 i=8
+file:F:\xiangmu\c\xuexi\test-4-9\test1.c line:44 date:Apr  9 2022 time:09:51:45 i=9
